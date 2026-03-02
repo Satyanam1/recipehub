@@ -16,4 +16,6 @@ A full-featured React recipe management application with CRUD functionality and 
 - Tailwind CSS
 - LocalStorage
 
+## Live Demo link
+https://satyanam-recipehub.vercel.app
 
